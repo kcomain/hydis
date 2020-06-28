@@ -11,6 +11,7 @@ requests = "*"
 discord-py = "*"
 pymongo = "*"
 nbt = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.8"
